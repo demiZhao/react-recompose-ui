@@ -2,7 +2,7 @@
   "name": "react-recompose-ui",
   "version": "1.0.0",
   "description": "",
-  "keywords": [React, Recompse, SVG],
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "bootstrap": "^4.1.3",
