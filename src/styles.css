@@ -1,0 +1,30 @@
+body {
+  margin: 10px;
+}
+
+input {
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.glyph-icon {
+  height: 18px;
+  width: 18px;
+  margin:5px;
+  float: left;
+}
+
+div.git button{
+  width: 40%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+div.git {
+  position :relative;
+  top: 10px;
+  left: 10px;
+}

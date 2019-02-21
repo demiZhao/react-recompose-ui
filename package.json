@@ -1,0 +1,22 @@
+{
+  "name": "react-recompose-ui",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [React, Recompse, SVG],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "recompose": "0.27.1",
+    "rxjs": "6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
