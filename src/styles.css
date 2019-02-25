@@ -1,5 +1,11 @@
+@font-face {
+    font-family:  'Space Mono';
+    src: url(./fonts/SpaceMono-Regular.ttf) format('truetype');
+}
+
 body {
   margin: 10px;
+  font-family: 'Space Mono' !important;
 }
 
 input {
