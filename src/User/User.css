@@ -20,6 +20,8 @@ body.ready {
   color: #555;
   position: relative;
   width:50%;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee
 }
 
 .github-card .header {
