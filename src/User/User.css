@@ -2,7 +2,7 @@ body {
   padding: 0;
   margin: 0;
   font-size: 14px;
-  font-family: 'Lucida Grande', 'Lucida Sans', Geneva, Verdana, sans-serif;
+  font-family: 'Space Mono' !important;
   overflow: hidden;
 }
 

@@ -1,8 +1,13 @@
 {
   "name": "react-recompose-ui",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Suggest a git user name card using rxjs and recompose",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demiZhao/react-recompose-ui.git"
+  },
+  "keywords": ["rxjs","react", "recompose", "svg", "google font"],
+  "author": "Demi Y. Zhao <demi.y.zhao@gmail.com>",
   "homepage": "http://demiZhao.github.io/react-recompose-ui",
   "main": "src/index.js",
   "dependencies": {
