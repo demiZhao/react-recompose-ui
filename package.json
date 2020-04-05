@@ -6,7 +6,13 @@
     "type": "git",
     "url": "git+https://github.com/demiZhao/react-recompose-ui.git"
   },
-  "keywords": ["rxjs","react", "recompose", "svg", "google font"],
+  "keywords": [
+    "rxjs",
+    "react",
+    "recompose",
+    "svg",
+    "google font"
+  ],
   "author": "Demi Y. Zhao <demi.y.zhao@gmail.com>",
   "homepage": "http://demiZhao.github.io/react-recompose-ui",
   "main": "src/index.js",
@@ -19,7 +25,7 @@
     "rxjs": "6.2.2"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
